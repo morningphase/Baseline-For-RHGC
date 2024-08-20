@@ -1,2 +1,6 @@
-# Baseline-For-RHGC
-Baseline For RHGC
+# HeGCL
+Quick Run: 
+
+```
+python train_molbace.py
+```
